@@ -1,9 +1,14 @@
 # Name: Gopal Kumar
-## Level: Higher Administrative Grade, ( Equivalent to Additional Secretary to Government of India)
-## Designation: Principal Executive Director (Rolling Stock)
-## Institution: Research, Designs, Standards Organisation (RDSO)
-## Ministry of Railways, Government of India
-## RDSO, Annexi 2, Manak Nagar,Alambagh, Lucknow, Uttar Pradesh - 226011, India 
+### Level: Higher Administrative Grade, ( Equivalent to Additional Secretary to Government of India)
+### Designation: Principal Executive Director (Rolling Stock)
+### Institution: Research, Designs, Standards Organisation (RDSO)
+### Ministry of Railways, Government of India
+### RDSO, Annexi 2, Manak Nagar,Alambagh, Lucknow, Uttar Pradesh - 226011, India 
+
+
+# Interest and Motivation 
+
+### To contribute with Productive Engagement for time pass with reasonable respectability 
 
 
 # Educational Qualifications:
