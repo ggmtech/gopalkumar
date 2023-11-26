@@ -60,7 +60,7 @@
 
 # Trainings
 - 1983 June 08 - 1987 Apr .. : Four Year Mechanical Engineering Training at Indian Railway Institute of Mechanical and Electrical Engineering, Jamalpur, Bihar, India
-### 1981 May - 1983 May 25 : Completed two years of Four year B.E(Electrical Engineering), University of Roorkee, (Now Indian Institute of Technology), Roorkee
+- 1981 May - 1983 May 25 : Completed two years of Four year B.E(Electrical Engineering), University of Roorkee, (Now Indian Institute of Technology), Roorkee
 
 # Education
 - 1979 - 1981 May : 1981 : Class XII , All India Senior school Certificate Examination, All India Council of Secondary Education, New Delhi, India
